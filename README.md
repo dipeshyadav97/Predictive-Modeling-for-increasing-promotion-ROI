@@ -29,6 +29,3 @@ This repository hosts a detailed exploration of predictive modeling techniques a
 
 ## Usage
 This repository serves as a resource for data scientists and researchers interested in applying machine learning to enhance marketing effectiveness in the gaming sector. It offers a comprehensive view of applying advanced analytics to real-world business challenges.
-
-## Contact
-For further information or collaboration inquiries, please contact [insert your email].
